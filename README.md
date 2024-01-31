@@ -1,3 +1,5 @@
+<img src="Jordyn Jensen.png style="width: 100%;" alt="">
+
 ### Hi there 👋
 
 <!--
