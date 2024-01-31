@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="Jordyn Jensen.png" style="width: 100%, height: auto"; alt="">
+  <center><img src="Jordyn Jensen.png" style="width: 100%, height: auto"; alt=""></center>
 </div>
 ### Hi there 👋
 
