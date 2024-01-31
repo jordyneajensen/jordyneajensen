@@ -1,5 +1,5 @@
 <div style="text-align: center, width: 100%;">
-  <center><img src="Jordyn Jensen.png" style="width: 100%"; alt=""></center>
+  <center><img src="jordynjensenlogo.png" style="width: 100%"; alt=""></center>
 </div>
 <div text-align="center" style="padding: 40px; color:white">
     <div align="center">
