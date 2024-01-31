@@ -1,5 +1,5 @@
 <div>
-  <img src="Jordyn Jensen.png" style="width: 35px, "height: 90px" alt="">
+  <img src="Jordyn Jensen.png" style="width: 100%, "height: 90px"; class="center" alt="">
 </div>
 ### Hi there 👋
 
