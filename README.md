@@ -1,8 +1,10 @@
 <div style="text-align: center, width: 100%;">
   <center><img src="Jordyn Jensen.png" style="width: 100%"; alt=""></center>
 </div>
-### Hi there 👋
-
+<div text-align="center" style="padding: 40px; color:white">
+    <div align="center">
+   <h2>Tools and Skills</h2>
+</div>
 <!--
 **jordyneajensen/jordyneajensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
