@@ -1,14 +1,15 @@
-<div style="text-align: center, width: 100%;">
-  <center><img src="jordynjensenlogo (1).png" style="width: 100%"; alt=""></center>
-  </div>
-  <div text-align="center" style="padding: 40px; color:white">
-      <div align="center">
+<div style="text-align: center; width: 100%;">
+  <center><img src="jordynjensenlogo (1).png" style="width: 100%;" alt=""></center>
+</div>
+<div style="text-align: center; padding: 40px; color:white;">
+  <div align="center">
     <h2>Tools and Skills</h2>
   </div>
-  <p align="center>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-line.svg" alt="yarn" width="45" height="45" />
-          
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-line.svg" alt="yarn" width="45" height="45"/>   
+  </p>
 </div>
+
 
 <!--
 **jordyneajensen/jordyneajensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
