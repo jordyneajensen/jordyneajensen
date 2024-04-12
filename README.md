@@ -38,21 +38,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="apple" width="45" height="45"/>
   </p>
 </div>
+ </div>
+     <div align="center">
+        <h3>Connect with me: </h3>
+        <div id="badges">
+          <a href="https://www.linkedin.com/in/jordyneajensen/" target="blank">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="35"/>
+          </a>
+        </div>
+    </div>
+    <p>&ensp; Full-Stack Software Developer transitioning from a career in nursing with a passion for innovation, creativity, and analysis. Seeking to contribute to a team through problem-solving, task-prioritization, and project management.
 
-
-<!--
-**jordyneajensen/jordyneajensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Technical: Mac or Windows, Typescript, React, Javascript, Azure, Docker, Git, Software as a Medical Device, Terminal, Ruby, HTML, CSS, GitHub,VS Code, Rails, PostgreSQL, RSpec, Jest, Enzyme, Yarn, Latex, SQL, pgAdmin, Postman, Microsoft Suites, Reactstrap, Bootstrap, Figma, Tailwind CSS, nextjs, 
+    I believe in approaching life with out-of-the-box thinking and am always working towards big goals. In order to accomplish big ideas, goals, and dreams, you have to be willing to go against the grain and stretch yourself.</p>
+  </div>
+</div>
