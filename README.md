@@ -1,5 +1,5 @@
 <div style="text-align: center; width: 100%;">
-  <center><img src="linkedin.png" style="width: 100%;" alt=""></center>
+  <center><img src="LinkedIn.png" style="width: 100%;" alt=""></center>
 </div>
 <div style="text-align: center; padding: 40px; color:white;">
   <div align="center">
