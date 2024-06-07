@@ -21,7 +21,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="35"/>
           </a>
           <a href="https://www.jordyneajensen.com/" target="blank">
-            <img src="https://img.shields.io/badge/-Portfolio-blueviolet" alt="portfolio" height="35"/>
+            <img src="https://img.shields.io/badge/-Portfolio-F89880" alt="portfolio" height="35"/>
           </a>
         </div>
     </div>
