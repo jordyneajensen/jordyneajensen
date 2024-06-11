@@ -25,6 +25,6 @@
           </a>
         </div>
     </div>
-    <p>&ensp; I'm a Full-Stack Software Developer specializing in React, Typescript, Javascript, Rails, and Azure. My currently interests include Python and Flask. I had a 3 month internship in the industry, and I have built applications for the biomedical industry. You can see evidence of my work on my Travel-App and Pig Latin Translator which are available from my Github: https://github.com/jordyneajensen. My background is in nursing where I completed the RN new grad program for medical-surgical floor and have over 1 year of experience.</p>
+    <p>&ensp; I'm a Full-Stack Software Developer specializing in React, Typescript, Javascript, Rails, and Azure. My current interests include Python and Flask. I had a 3 month internship in the industry, and I have built applications for the biomedical industry. You can see evidence of my work on my Travel-App and Pig Latin Translator which are available from my Github: https://github.com/jordyneajensen. My background is in nursing where I completed the RN new grad program for medical-surgical floor and have over 1 year of experience.</p>
   </div>
 </div>
